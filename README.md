@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Juhaina 👋
 
-<!--
-**JuhainaAlbadi/JuhainaAlBadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Graduate | Passionate about coding and problem solving
 
-Here are some ideas to get you started:
+- 🔭 Currently working on small projects to build my portfolio
+- 🌱 Learning: Web Development & Clean Code
+- 📫 How to reach me: https://www.linkedin.com/in/juhaina-albadi-9587113a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I use:
+- Python
+- Java
+- HTML/CSS/JavaScript
+- Git & GitHub
+
+Thanks for visiting! Feel free to check my repositories ⭐
